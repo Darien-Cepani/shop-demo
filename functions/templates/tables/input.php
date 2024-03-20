@@ -1,0 +1,1 @@
+<th  style="background-color:#fff;top: 31px;"><input type="text" name="^fusha^_s" id="^fusha^_s" class="kutisearch" placeholder="Search"></th>
